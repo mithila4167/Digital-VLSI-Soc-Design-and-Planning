@@ -61,7 +61,7 @@ Places all standard cells in legal positions while optimizing wirelength and tim
 <img width="1919" height="1079" alt="inv_placement" src="https://github.com/user-attachments/assets/f967fd2d-c731-45ad-a0a5-f6da47500b6b" />
 <img width="1919" height="1079" alt="inv_placement1" src="https://github.com/user-attachments/assets/c67c96db-06a1-46b6-8c27-f05f2eb02d35" />
 <img width="1919" height="954" alt="Placement" src="https://github.com/user-attachments/assets/202b5ebd-913c-4805-b6de-0d9fb6e38ecd" />
-<img width="1853" height="927" alt="placement1" src="https://github.com/user-attachments/assets/975ebff2-c760-45c2-bac0-c5628bf86b5d" />
+<img width="1920" height="1020" alt="placement4" src="https://github.com/user-attachments/assets/a4c7ea18-7d17-4f2b-b4e7-64b802d49f05" />
 
 ## Clock-Tree Synthesis (CTS)
 
