@@ -1,4 +1,4 @@
-# PicoRV32a RTL → GDS Flow
+# PicoRV32a ASIC Flow (RTL → GDSII) Using SkyWater SKY130
 # Commands to launch OPENLANE
 ```bash
 cd Desktop/work/tools/openlane_working_dir/openlane
